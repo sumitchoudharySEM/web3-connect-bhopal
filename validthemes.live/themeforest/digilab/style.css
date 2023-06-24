@@ -524,10 +524,8 @@ input {
 }
 
 #countdown-wrapper {
-  background-color: #000000;
-  padding: 20px; /* Adjust the padding as desired */
-  margin-top: 20px; /* Adjust the top margin as desired */
-  margin-bottom: 20px; /* Adjust the bottom margin as desired */
+  background-color: #ffffff;
+  
 }
 
 #clockdiv > div {
