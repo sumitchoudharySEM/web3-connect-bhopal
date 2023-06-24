@@ -1,0 +1,20 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 24 Jun 2023 10:59:34 at https://validthemes.live//themeforest/digilab/index-1.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://validthemes.live//themeforest/digilab/index-1.html -O1 "C:\Users\sumit\Desktop\projects\WEB3_connect_bhopal\web3_event_bhopal" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:01:59	Warning: 	Retry after error -4 (No data (connection closed)) at link https://validthemes.live//themeforest/digilab/assets/img/clients/04.png (from https://validthemes.live//themeforest/digilab/index-1.html)
+11:01:59	Warning: 	Retry after error -4 (No data (connection closed)) at link https://validthemes.live//themeforest/digilab/assets/img/clients/05.png (from https://validthemes.live//themeforest/digilab/index-1.html)
+11:02:00	Warning: 	Retry after error -4 (No data (connection closed)) at link https://validthemes.live//themeforest/digilab/assets/img/shape/8.png (from https://validthemes.live//themeforest/digilab/index-1.html)
+11:02:00	Error: 	"Not Found" (404) at link https://validthemes.live//themeforest/digilab/assets/fonts/fa-brands-400.svg (from https://validthemes.live//themeforest/digilab/assets/css/font-awesome.min.css)
+11:02:00	Error: 	"Not Found" (404) at link https://validthemes.live//themeforest/digilab/assets/fonts/fa-regular-400.svg (from https://validthemes.live//themeforest/digilab/assets/css/font-awesome.min.css)
+11:02:00	Error: 	"Not Found" (404) at link https://validthemes.live//themeforest/digilab/assets/fonts/fa-solid-900.svg (from https://validthemes.live//themeforest/digilab/assets/css/font-awesome.min.css)
+11:02:00	Error: 	"Not Found" (404) at link https://validthemes.live//themeforest/digilab/assets/css/Flaticon.svg (from https://validthemes.live//themeforest/digilab/assets/css/flaticon-set.css)
+11:02:00	Error: 	"Not Found" (404) at link https://validthemes.live//themeforest/digilab/assets/css/owl.video.play.png (from https://validthemes.live//themeforest/digilab/assets/css/owl.carousel.min.css)
+11:02:00	Error: 	"Not Found" (404) at link https://validthemes.live//themeforest/digilab/assets/js/typed.js (from https://validthemes.live//themeforest/digilab/index.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 27 seconds : 178 links scanned, 168 files written (6152441 bytes overall) [4618259 bytes received at 31416 bytes/sec], 2158954 bytes transferred using HTTP compression in 60 files, ratio 25%, 5.5 requests per connection
+(6 errors, 3 warnings, 0 messages)
